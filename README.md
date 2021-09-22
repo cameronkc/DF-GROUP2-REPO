@@ -3,4 +3,4 @@
 
 # Cameron will be demonstrating Data Analysis #
 # Tiffany will be demonstrating Malware Analysis #
-# Mamadou will be demonstrating Incident Response#
+# Mamadou will be demonstrating Incident Response #
