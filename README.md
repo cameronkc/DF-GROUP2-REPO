@@ -3,7 +3,7 @@
 
 # Tiffany will be demonstrating Malware Analysis #
 
-# Jacob will be demonstrating 
+# Jacob will be demonstrating Memory Analysis#
 
 # Cameron will be demonstrating Data Analysis #
 
