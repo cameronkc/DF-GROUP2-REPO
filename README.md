@@ -11,6 +11,6 @@
 
 # Cameron will be demonstrating Data Analysis #
 
-# Mamadou will be demonstrating Incident Response #
+# Mamadou will be demonstrating How to use Volatility from the Command Line #
 
 
