@@ -11,6 +11,6 @@
 
 # Mamadou will be demonstrating How to use Volatility from the Command Line #
 
-# Cameron will be demonstrating How To Get Involved in the Volatility Foundation#
+# Cameron will be demonstrating How To Get Involved in the Volatility Foundation #
 
 
