@@ -5,11 +5,12 @@
 ![Volatility](volatility.png)
 
 # Cameron will be demonstrating How To Get Involved in the Volatility Foundation #
-![images](https://user-images.githubusercontent.com/46081774/140665251-dc614566-c0a6-4e1d-b44b-4956da386562.jpg)
 
 # What is the Volatility Foundation? #
 
 An independent non-profit organization. The main mission is to promote the use of volatility and memory anaylisis within the forensics community, as well as to defend the project's itellectual property and longevity.
+
+![images](https://user-images.githubusercontent.com/46081774/140665251-dc614566-c0a6-4e1d-b44b-4956da386562.jpg)
 
 # Why was the Volatility Foundation formed? # 
 
