@@ -5,6 +5,7 @@
 ![Volatility](volatility.png)
 
 # Cameron will be demonstrating How To Get Involved in the Volatility Foundation #
+![images](https://user-images.githubusercontent.com/46081774/140665251-dc614566-c0a6-4e1d-b44b-4956da386562.jpg)
 
 # What is the Volatility Foundation? #
 
