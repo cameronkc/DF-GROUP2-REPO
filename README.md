@@ -50,6 +50,10 @@ The volatility foundation was formed to defend against large corporations and in
 
 # Malware and Memory Forensics Training #
 
+- The only memory forensics class that is authorized to teach volatility
 - Gain the ability to perform digital investigations and incident respose.
-- 
+- Includes 5 days of training, lectures, and hands on labs
+- Obtain a copy of The Art of Memory Forensaics
+- Access to volatility plugins before release
+- course completetion certificate with CPE credits
 
