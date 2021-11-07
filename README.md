@@ -28,12 +28,12 @@ The volatility foundation was formed to defend against large corporations and in
 - Contribute to the open source code
 - Attend an Open Memory Forensics Workshop
 
-# OMFW #
+# OMFW 
 
 - OMFW is the ony digital forensics workshop focused on providing a venue to advanced digital investigators.
 - Oppurtunity to learn from researchers and practioners who have shaped the field of memory anaylsis.
 
-# WHY OMFW? #
+# WHY OMFW? 
 
 - They limit attendees to ensure the venue is intimate and encourages participation and collaborative discussion.
 - Peer relationships: being surrounded by like-minded individuals whose goals are to take on challenging problems.
@@ -47,4 +47,9 @@ The volatility foundation was formed to defend against large corporations and in
 - Volatility contests were designed with the beliefe that talented analysts should only be limited to their creativity, not the tools they use.
 - Create innovative and useful extensions for Volatility to win
 ![Capture](https://user-images.githubusercontent.com/46081774/140662029-5630e540-cb6e-4552-ab41-c1d434f5389c.PNG)
+
+# Malware and Memory Forensics Training #
+
+- Gain the ability to perform digital investigations and incident respose.
+- 
 
