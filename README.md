@@ -17,10 +17,19 @@
 
 # What is the Volatility Foundation? #
 
-An independent non-profit organization. The main mission is to promote the use of volatility and memory anaylisis within the forensics community, as well as to defend the project's
-intellectual property and longevity.
+An independent non-profit organization. The main mission is to promote the use of volatility and memory anaylisis within the forensics community, as well as to defend the project's itellectual property and longevity.
 
-# Why was the Volatility Foundation formed? #
+# Why was the Volatility Foundation formed? # 
+
+The volatility foundation was formed to defend against large corporations and individuals who attempt to exploit open source communities for their own self-interest, as well as to protect all open-source contributers that have sacrificed their time to contribute to the worlds most advanced memory forensics platform.
 
 # How do I get involved with the Volatility Foundation? #
 
+- Contribute to the open source code
+- Attend an Open Memory Forensics Workshop
+
+# OMFW #
+
+- OMFW is the ony digital forensics workshop focused on providing a venue to advanced digital investigators.
+- Oppurtunity to learn from researches and practioners who have shaped the field of memory anaylsis.
+- 
