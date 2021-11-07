@@ -14,3 +14,13 @@
 # Cameron will be demonstrating How To Get Involved in the Volatility Foundation #
 
 
+
+# What is the Volatility Foundation? #
+
+An independent non-profit organization. The main mission is to promote the use of volatility and memory anaylisis within the forensics community, as well as to defend the project's
+intellectual property and longevity.
+
+# Why was the Volatility Foundation formed? #
+
+# How do I get involved with the Volatility Foundation? #
+
