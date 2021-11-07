@@ -58,7 +58,11 @@ The volatility foundation was formed to defend against large corporations and in
 # Mamadou will be demonstrating How to use Volatility from the Command Line #
 
 
+# Citations
 
+https://www.volatilityfoundation.org/
+
+https://twitter.com/volatility/status/1030536391296536576
 
 
 
