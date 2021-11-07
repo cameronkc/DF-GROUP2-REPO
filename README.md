@@ -4,16 +4,7 @@
 
 ![Volatility](volatility.png)
 
-
-# Tiffany will be demonstrating Malware Analysis #
-
-# Jacob will be demonstrating Memory Analysis #
-
-# Mamadou will be demonstrating How to use Volatility from the Command Line #
-
 # Cameron will be demonstrating How To Get Involved in the Volatility Foundation #
-
-
 
 # What is the Volatility Foundation? #
 
@@ -56,4 +47,16 @@ The volatility foundation was formed to defend against large corporations and in
 - Obtain a copy of The Art of Memory Forensaics
 - Access to volatility plugins before release
 - course completetion certificate with CPE credits
+
+
+# Tiffany will be demonstrating Malware Analysis #
+
+# Jacob will be demonstrating Memory Analysis #
+
+# Mamadou will be demonstrating How to use Volatility from the Command Line #
+
+
+
+
+
 
