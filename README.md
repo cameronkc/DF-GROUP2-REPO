@@ -31,5 +31,20 @@ The volatility foundation was formed to defend against large corporations and in
 # OMFW #
 
 - OMFW is the ony digital forensics workshop focused on providing a venue to advanced digital investigators.
-- Oppurtunity to learn from researches and practioners who have shaped the field of memory anaylsis.
-- 
+- Oppurtunity to learn from researchers and practioners who have shaped the field of memory anaylsis.
+
+# WHY OMFW? #
+
+- They limit attendees to ensure the venue is intimate and encourages participation and collaborative discussion.
+- Peer relationships: being surrounded by like-minded individuals whose goals are to take on challenging problems.
+- Expert researchers and practioners: Oppurtunity to learn about the current innovative research, and what challeges professionals are facing in memory anaylsis.
+- Cost: $50 to sign up, all proceeds go to charity
+- Invited speakers that present relevant information in "lightning talks", and at the end of each talk their is time set aside to discuss the specific details of their presentaion
+
+# Ok, but what else? #
+
+- You can demonstrate your creativity, and knowledde of memory anaylsis by getting involved with Volatility contests.
+- Volatility contests were designed with the beliefe that talented analysts should only be limited to their creativity, not the tools they use.
+- Create innovative and useful extensions for Volatility to win
+![Capture](https://user-images.githubusercontent.com/46081774/140662029-5630e540-cb6e-4552-ab41-c1d434f5389c.PNG)
+
