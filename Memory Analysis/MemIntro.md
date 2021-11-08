@@ -23,4 +23,4 @@ When this is done running (it will open a command line and install volatility), 
 ![Application](./MemImages/Application.png)
 
 That's it, you are all ready to use Volatility!!
-![Home](./MemImage/home.png)
+![Home](./MemImages/home.png)
