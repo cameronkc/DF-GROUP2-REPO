@@ -20,6 +20,7 @@ After extracting all of the files, you will run the application called vol.exe.
 ![vol.exe](./MemImages/Installer.png)
 
 When this is done running (it will open a command line and install volatility), then you will run VolatilityWorkbench.exe
-![Workbench](./MemImages/Workbench.png)
+![Application](./MemImages/Application.png)
 
 That's it, you are all ready to use Volatility!!
+![Home](./MemImage/home.png)
