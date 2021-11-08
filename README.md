@@ -8,7 +8,7 @@
 
 # What is the Volatility Foundation? #
 
-An independent non-profit organization. The main mission is to promote the use of volatility and memory anaylisis within the forensics community, as well as to defend the project's itellectual property and longevity.
+An independent non-profit organization. The main mission is to promote the use of volatility and memory analysis within the forensics community, as well as to defend the project's itellectual property and longevity.
 
 ![images](https://user-images.githubusercontent.com/46081774/140665251-dc614566-c0a6-4e1d-b44b-4956da386562.jpg)
 
@@ -28,7 +28,7 @@ The volatility foundation was formed to defend against large corporations and in
 
 # WHY OMFW? 
 
-- They limit attendees to ensure the venue is intimate and encourages participation and collaborative discussion.
+- They limit attendees to ensure the venue is encourages participation and collaborative discussion.
 - Peer relationships: being surrounded by like-minded individuals whose goals are to take on challenging problems.
 - Expert researchers and practioners: Oppurtunity to learn about the current innovative research, and what challeges professionals are facing in memory anaylsis.
 - Cost: $50 to sign up, all proceeds go to charity
@@ -36,8 +36,7 @@ The volatility foundation was formed to defend against large corporations and in
 
 # Ok, but what else? #
 
-- You can demonstrate your creativity, and knowledde of memory anaylsis by getting involved with Volatility contests.
-- Volatility contests were designed with the beliefe that talented analysts should only be limited to their creativity, not the tools they use.
+- You can demonstrate your creativity, and knowledge of memory anaylsis by getting involved with Volatility contests.
 - Create innovative and useful extensions for Volatility to win
 ![Capture](https://user-images.githubusercontent.com/46081774/140662029-5630e540-cb6e-4552-ab41-c1d434f5389c.PNG)
 
