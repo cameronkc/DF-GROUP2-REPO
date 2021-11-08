@@ -2,7 +2,7 @@ I was tasked with showing how to analyze the memory of a computer/device given t
 To begin with, Volatility was always meant to be a command line tool. But, a nifty company took Volatility and made a Graphical User Interface (GUI). This allows the user to use Volatility without having to remember all of the commands, and without having to fully install python and run command line.
 ---
 # This is how I got Volatility to work:
-![PassMark](./Memimages/PassMark.png)
+![PassMark](./MemImages/PassMark.png)
 A well known company that should sound familiar to all Digital Forensics students is PassMark. We have used PassMark throughout the whole semester to analyze Disk Dumps of complete systems. PassMark makes a friendly to use tool called OSForensics. But after doing some research, I found that PassMark has a free tool that isn't really promoted for Volatility.
 ---
 # Volatility Workbench
