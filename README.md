@@ -50,7 +50,7 @@ The volatility foundation was formed to defend against large corporations and in
 - course completetion certificate with CPE credits
 
 
-# Tiffany will be demonstrating Malware Analysis #
+# Tiffany will be demonstrating Workbench / Malware Analysis #
 
 # Jacob will be demonstrating Memory Analysis #
 
