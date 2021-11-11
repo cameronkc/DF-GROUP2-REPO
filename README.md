@@ -18,6 +18,8 @@ The volatility foundation was formed to defend against large corporations and in
 
 # How do I get involved with the Volatility Foundation? #
 
+https://www.volatilityfoundation.org/
+
 - Contribute to the open source code
 - Attend an Open Memory Forensics Workshop
 
