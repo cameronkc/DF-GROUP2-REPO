@@ -1,3 +1,5 @@
+# Link to my recording for presentation purpose [volatility presentation](https://app.vidgrid.com/view/l4ZviLNedrJ7)
+
 I was tasked with showing how to analyze the memory of a computer/device given the memory dump of the device.
 To begin with, Volatility was always meant to be a command line tool. But, a nifty company took Volatility and made a Graphical User Interface (GUI). This allows the user to use Volatility without having to remember all of the commands, and without having to fully install python and run command line.
 ---
