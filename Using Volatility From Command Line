@@ -1,6 +1,5 @@
 -f cridex.vmem imageinfo
- [InternetShortcut]
-URL=https://github.com/cameronkc/DF-GROUP2-REPO/blob/main/imageinfo.PNG
+ ![](imageinfo.PNG)
 Processes running
 -f cridex.vmem –profile=WinXPSP2x86 pslist (process list)
 [InternetShortcut]
