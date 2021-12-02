@@ -57,6 +57,7 @@ https://www.volatilityfoundation.org/
 # Jacob will be demonstrating Memory Analysis #
 
 # Mamadou will be demonstrating How to use Volatility from the Command Line #
+https://github.com/cameronkc/DF-GROUP2-REPO/blob/main/Using%20Volatility%20From%20Command%20Line
 
 
 # Citations
