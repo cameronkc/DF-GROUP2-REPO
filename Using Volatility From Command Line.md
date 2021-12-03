@@ -4,8 +4,7 @@ Processes running
 -f cridex.vmem –profile=WinXPSP2x86 pslist (process list)
 ![InternetShortcut](pslist.PNG)
 -f cridex.vmem –profile=WinXPSP2x86 pstree
- [InternetShortcut]
-URL=https://github.com/cameronkc/DF-GROUP2-REPO/blob/main/pstree.PNG
+ ![InternetShortcut](pstree.PNG)
 -f cridex.vmem –profile=WinXPSP2x86 psxview (Hidden)
  [InternetShortcut]
 URL=https://github.com/cameronkc/DF-GROUP2-REPO/blob/main/psxview.PNG
